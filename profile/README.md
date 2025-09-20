@@ -11,3 +11,5 @@ Wallpaper Manager: hyprpaper
 Notification Manager: Dunst
 
 Dunst Theme: https://github.com/dracula/dunst
+
+Run/Widgets: Rofi

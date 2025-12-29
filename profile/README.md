@@ -4,6 +4,8 @@ Greeter: SSDM
 
 Window Manager: Hyprland
 
+Lockscreen: Hyprlock
+
 Utility Bar: Waybar
 
 Wallpaper Manager: hyprpaper
